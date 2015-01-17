@@ -15,7 +15,7 @@ Del viernes 23 de enero a las 7pm al domingo 25 de enero a las 7pm (CST).
 
 ## Sedes en México
 
-* [Ciudad de México](https://plus.google.com/events/ck9fmt0laokc34gbd2qunagmcps)
+* [Ciudad de México][6]
 * [Colima](https://www.facebook.com/events/934208703256506/)
 
 ## Reglas de participación
@@ -40,8 +40,65 @@ los propietarios y pueden decidir publicarlo o mantenerlo privado.
 Puedes leer las [reglas completas](http://gophergala.com/rules/) (en inglés) y
 un [F.A.Q.](http://gophergala.com/faq) en el sitio oficial de [Gophergala][1].
 
+## Dinámica en la sede Ciudad de México
+
+La sede Ciudad de México tendrá lugar en [The Pool][8], es necesario [confirmar
+asistencia][6]. A las personas que no confirmen asistencia no podemos
+garantizarles cupo, bebidas ni refrigerios.
+
+Los patrocionadores locales (en órden alfabético) son:
+
+* [Go+ México](https://plus.google.com/communities/110325783890611262108)
+* KIWI
+* [The Pool][8]
+
+Cada participante debe tener cuenta en [Github][9] y solicitar acceso push a
+[/golangmx][10] en [#mexico][3].
+
+Los equipos deben construirse formalmente el día 19 de enero, cada equipo debe
+crear un subdirectorio propio en el directorio `projects` de este repositorio
+con el nombre de su proyecto y nombres de los integrantes. El idioma sugerido
+para este subdirectorio es inglés ya que se propone que sea el punto de entrada
+para los jueces.
+
+Los equipos pueden solicitar la creación de un repositorio en [/golangmx][10]
+en el canal [#mexico][3] o usar otro tipo de control de versiones, de cualquier
+forma es necesario explicar el acceso al control de versiones elegido en el
+subdirectorio bajo `projects` asignado al proyecto.
+
+Los equipos pueden hacer un plan de acción antes del concurso e incluso definir
+el proyecto completo con documentos (sin código) y wireframes, lo único que no
+se permite es crear código en cualquier lenguaje, assets gráficos o cualquier
+tipo de base que proveea una ventaja en la ejecución del proyecto.
+
+Los equipos son responsables de organizarse a sí mismos.
+
+¿Tienes dudas? Preguntanos en [#mexico][3].
+
+## Dinámica en la sede Colima
+
+Puedes consultar la dinámica de la sede Colima en la [página
+Facebook](https://www.facebook.com/events/934208703256506/) del evento.
+
+## Propuestas de proyecto
+
+Los participantes que no han definido un equipo, pueden exponer sus propuestas
+en el [wiki](https://github.com/golangmx/gophergala-2015/wiki).
+
+Además de la idea central, wireframes, etc., recuerda comentar el equipo ideal
+que necesitas.
+
+### Propuestas
+
+* [Calendario de juegos con quiniela](https://github.com/golangmx/gophergala-2015/wiki/(Propuesta)-Calendario-de-juegos-con-quiniela)
+
 [1]: http://gophergala.com/
 [2]: https://gophergala.slack.com/
 [3]: https://gophergala.slack.com/messages/mexico/
 [4]: https://golang.org/
 [5]: https://gophers.typeform.com/to/wondM5
+[6]: https://plus.google.com/events/ck9fmt0laokc34gbd2qunagmcps
+[7]: https://www.facebook.com/events/934208703256506/
+[8]: http://www.thepool.mx/
+[9]: https://github.com/
+[10]: https://github.com/golangmx
