@@ -71,6 +71,17 @@ el proyecto completo con documentos (sin código) y wireframes, lo único que no
 se permite es crear código en cualquier lenguaje, assets gráficos o cualquier
 tipo de base que proveea una ventaja en la ejecución del proyecto.
 
+[The Pool][8] puede proveernos un espacio físico para trabajar en los
+siguientes horarios:
+
+* Viernes 23: 7pm a 9pm.
+* Sábado 24: 9am a 6pm.
+* Domingo 25: 11am a 7pm.
+
+Se recomienda planear el proyecto de para aprovechar el tiempo disponible de
+trabajo físico en equipo y contar con comunicación remota, en caso de ser
+necesario.
+
 Los equipos son responsables de organizarse a sí mismos.
 
 ¿Tienes dudas? Preguntanos en [#mexico][3].
