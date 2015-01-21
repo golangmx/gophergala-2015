@@ -91,6 +91,12 @@ Los equipos son responsables de organizarse a sí mismos.
 Puedes consultar la dinámica de la sede Colima en la [página
 Facebook](https://www.facebook.com/events/934208703256506/) del evento.
 
+## Dinámica para participar de forma remota
+
+Asegurate que los miembros de tu equipo tengan tus datos de contacto (skype/IM/etc) y hayan acordado en la herramienta de desarrollo (Cloud9, Koding, etc)
+
+
+
 ## Propuestas de proyecto
 
 Los participantes que no han definido un equipo, pueden exponer sus propuestas
@@ -102,6 +108,8 @@ que necesitas.
 ### Propuestas
 
 * [Calendario de juegos con quiniela](https://github.com/golangmx/gophergala-2015/wiki/(Propuesta)-Calendario-de-juegos-con-quiniela)
+* [Find a parking](https://github.com/golangmx/gophergala-2015/wiki/Find-A-Parking)
+* [Estadísticas para dispositivos robóticos](https://github.com/golangmx/gophergala-2015/wiki/Propuesta:-Estad%C3%ADsticas-para-dispositivos-rob%C3%B3ticos)
 
 [1]: http://gophergala.com/
 [2]: https://gophergala.slack.com/
