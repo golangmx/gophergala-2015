@@ -107,7 +107,7 @@ que necesitas.
 
 ### Propuestas
 
-* [Calendario de juegos con quiniela](https://github.com/golangmx/gophergala-2015/wiki/(Propuesta)-Calendario-de-juegos-con-quiniela)
+* [Calendario de juegos con quiniela](https://github.com/golangmx/gophergala-2015/wiki/Calendario-de-juegos-con-quiniela)
 * [Find a parking](https://github.com/golangmx/gophergala-2015/wiki/Find-A-Parking)
 * [Estadísticas para dispositivos robóticos](https://github.com/golangmx/gophergala-2015/wiki/Propuesta:-Estad%C3%ADsticas-para-dispositivos-rob%C3%B3ticos)
 
